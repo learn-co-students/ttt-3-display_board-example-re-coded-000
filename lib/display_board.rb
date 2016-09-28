@@ -1,3 +1,7 @@
+welcome to "Tic Tac Toe"
+
+
+
 puts "  1 | 2  | 3  "
    _ _ _ _ _ _ _ _ _ _ _
 puts " 4  | 5  | 6  "
