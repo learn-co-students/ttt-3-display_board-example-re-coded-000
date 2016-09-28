@@ -1,5 +1,4 @@
-welcome to "Tic Tac Toe"
-
+puts "Tic Tac Toe"
 
 
 puts "  1 | 2  | 3  "
@@ -7,5 +6,3 @@ puts "  1 | 2  | 3  "
 puts " 4  | 5  | 6  "
    _ _ _ _ _ _ _ _ _ _ _
 puts "  7 | 8  | 9  "
-
-[" "," "," "," "," "," "," "," "," "]
